@@ -14,6 +14,7 @@
 #' set.seed(123)
 #' x <- 5
 #' y <- 4
+#' z <- 5
 #' # Compute MDC with U-centering
 #' product <- prod(x,y)
 #'
@@ -23,7 +24,7 @@
 #'
 
 prod <- function(x,y){
-  x * y
+  x * y 
 }
 
 
