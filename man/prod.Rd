@@ -22,6 +22,7 @@ Returns the product of \code{x} and \code{y}.
 set.seed(123)
 x <- 5
 y <- 4
+z <- 5
 # Compute MDC with U-centering
 product <- prod(x,y)
 
