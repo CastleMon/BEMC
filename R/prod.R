@@ -23,7 +23,7 @@
 #'
 
 prod <- function(x,y){
-  x * y
+  x * y + 2
 }
 
 
